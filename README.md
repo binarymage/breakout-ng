@@ -13,4 +13,4 @@ A few weeks ago, I was set the challenge to create a version of 'Breakout'. Afte
 System requirements
 -------------------
 
-Ruby 2.2.1, Gosu 0.10.5, Chingu 0.8.1 and Chipmunk 6.1.3.4 - I figured that if I was going to be challenge, I should be challenged properly!
+Ruby 2.2.1, Gosu 0.10.5, Chingu 0.8.1 and Chipmunk 6.1.3.4 - I figured that if I was going to be challenged, I should be challenged properly!
